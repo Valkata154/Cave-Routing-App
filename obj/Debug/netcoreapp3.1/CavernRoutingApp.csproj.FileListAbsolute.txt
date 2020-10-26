@@ -1,0 +1,13 @@
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\bin\Debug\netcoreapp3.1\CavernRoutingApp.exe
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\bin\Debug\netcoreapp3.1\CavernRoutingApp.deps.json
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\bin\Debug\netcoreapp3.1\CavernRoutingApp.runtimeconfig.json
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\bin\Debug\netcoreapp3.1\CavernRoutingApp.runtimeconfig.dev.json
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\bin\Debug\netcoreapp3.1\CavernRoutingApp.dll
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\bin\Debug\netcoreapp3.1\CavernRoutingApp.pdb
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.AssemblyInfoInputs.cache
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.AssemblyInfo.cs
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.csproj.CoreCompileInputs.cache
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.dll
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.pdb
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.genruntimeconfig.cache
+C:\Users\Valeri\Desktop\40399682-Artificial-Intelligence-1\CavernRoutingApp\CavernRoutingApp\obj\Debug\netcoreapp3.1\CavernRoutingApp.csprojAssemblyReference.cache
